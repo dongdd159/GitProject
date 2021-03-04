@@ -15,7 +15,7 @@
     <h1>Giới tính:</h1>
     <input type="radio" name="gender" value="male"/>Nam
     <input type="radio" name="gender" value="female"/>Nữ<br/>
-    <input type="submit" value="Đặng ký">
+    <input type="submit" value="Đăng ký">
 </form>
 </body>
 </html>
