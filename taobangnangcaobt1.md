@@ -23,7 +23,6 @@
     </style>
 </head>
 <body>
-<h1 align="center" > THỜI KHÓA BIỂU</h1>
 <table>
     <tr>
         <td id="white"></td>
