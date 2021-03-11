@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <style>
+  </style>
+</head>
+<body>
+<h2>JavaScript Loops</h2>
+<p id="demo"></p>
+<script>
+  let num = prompt("Enter your number: ");
+  let total = 0;
+  let i = 1;
+  for (; i <= num; i +=1) {
+    total = total + i;
+  }
+  alert(total);
+
+</script>
+</body>
+</html>
